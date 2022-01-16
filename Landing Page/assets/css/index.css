@@ -179,3 +179,10 @@ body,html {
     background-color: #ffffff33;
     font-family: 'Montserrat', sans-serif;
 }
+
+
+/*  Utility classes  */
+
+.no-select{
+    user-select: none;
+}
